@@ -29,7 +29,7 @@ Data Analysis AI Pilot offers a range of robust features for you data analysis p
 
 ## Quick Start Guide 🚀
 
-Start a New Chat-GPT Chat (Conversation) and paste in the prompt from in this file 👉 [DA AI Pilot Prompt]() and follow the instructions. 
+Start a New Chat-GPT Chat (Conversation) and paste in the prompt from in this file 👉 [DA AI Pilot Prompt](https://github.com/hossam-elshabory/Data-Analysis-AI-Pilot/blob/main/DA%20AI%20Pilot%20Prompt.txt) and follow the instructions. 
 
 
 ## Prompt Example (DEMO) 🎮 ⤵

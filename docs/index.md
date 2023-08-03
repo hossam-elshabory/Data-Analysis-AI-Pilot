@@ -185,7 +185,7 @@ Start a New Chat-GPT Chat (Conversation) and past in the below prompt and follow
 +++ :icon-mark-github: Copy Prompt From GitHub
 👇 Click The Button Below To Copy It From GitHub
 
-[!button variant="primary" icon="mark-github" iconAlign="left" text="Copy From GitHub"]
+[!button variant="primary" icon="mark-github" iconAlign="left" text="Copy From GitHub"](https://github.com/hossam-elshabory/Data-Analysis-AI-Pilot/blob/main/DA%20AI%20Pilot%20Prompt.txt)
 +++
 
 ****
