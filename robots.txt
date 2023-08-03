@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hossam-elshabory.github.io/Data-Analysis-AI-Pilot/sitemap.xml.gz
