@@ -1,16 +1,14 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="assets/images/readmelogo.png" width="300">
-</div>
+</p>
 
-<div style="text-align: center;">
+<div align="center">
   <h1>👋 Welcome to DA AI Pilot 👨‍✈️</h1>
 </div>
 
-<h2 style="text-align: center;">
-
-[📑 Official Documentaion 📑](hossam-elshabory.github.io/Data-Analysis-AI-Pilot/)
-
-</h2>
+<div align="center">
+  <h2> <a href="https://hossam-elshabory.github.io/Data-Analysis-AI-Pilot/"> 📑 Official Documentation 📑 </a> </h2>
+</div>
 
 - [Quick Start Guide 🚀](#quick-start-guide-)
 - [Prompt Example (DEMO) 🎮 ⤵](#prompt-example-demo--)
